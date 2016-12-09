@@ -1,2 +1,5 @@
 # hello-world
-My first repository on Github
+
+Hi Humans!
+
+My name is Andrew. I stusy Java SE.
